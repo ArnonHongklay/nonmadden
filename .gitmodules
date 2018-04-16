@@ -1,0 +1,3 @@
+[submodule "checkpoint"]
+	path = checkpoint
+	url = git@github.com:nonmadden/checkpoint.git
